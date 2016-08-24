@@ -1,0 +1,13 @@
+Output/*
+*.properties
+*.PRN
+*.REP
+*.VPR
+*.TRF
+*.BAK
+*.DBK
+*.VAR
+*.PRJ
+Cube/trc{*}.s
+*.[0-9][0-9][0-9]
+Base/*.net
